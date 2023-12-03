@@ -16,9 +16,9 @@ export default function RootLayout({ children }) {
         <meta name="msapplication-navbutton-color" content="#11498B" />
         <meta name="apple-mobile-web-app-status-bar-style" content="#11498B" />
         <meta name="description" content="Centro de IMPORTACIONES" />
-        <meta name="keywords" content="NOVUX" />
-        <meta name="author" content="NOVUX" />
-        <title>NOVUX</title>
+        <meta name="keywords" content="VONUX" />
+        <meta name="author" content="VONUX" />
+        <title>VONUX</title>
       </head>
       <body className={`${inter.className} bg-white`}>
       <UserProvider>
