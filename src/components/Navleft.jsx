@@ -28,7 +28,7 @@ export default function Navbar({ children, funcion }) {
     }
 
     const handlerShare = () => {
-        window.open('https://wa.me/?text=https://VONUX.importaciones.vercel.app/', '_blank')
+        window.open('https://wa.me/?text=https://vonux-importaciones.vercel.app/', '_blank')
     }
     return (
         <>
